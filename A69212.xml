@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant ditty, of a maydens vow, that faine would marry, and yet knew not how To the tune of O no, no, no, not yet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69212</idno>
+            <idno type="STC">STC 6924</idno>
+            <idno type="STC">ESTC S108801</idno>
+            <idno type="EEBO-CITATION">99844456</idno>
+            <idno type="PROQUEST">99844456</idno>
+            <idno type="VID">9270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 986:19, 1627:23a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant ditty, of a maydens vow, that faine would marry, and yet knew not how To the tune of O no, no, no, not yet.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[by E. Allde] for H. G[osson],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and publisher's names and suggested publication date from STC.</note>
+                  <note>"The wofull complaint of a loue-sicke mayde" (STC 5612) printed on verso.</note>
+                  <note>Verse - "There was a lusty youthfull lad,".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:9270:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>
+               <l>A pleaſant Ditty, of a Maydens Vow,</l>
+               <l>That faine would Marry, and yet knew not how.</l>
+            </head>
+            <opener>To the tune of, <hi>O no, no, no, not yet.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THere was a luſty <gap reason="illegible: damage" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ull Lad,</l>
+                  <l>that lou'd a Countrey Laſſe:</l>
+                  <l>And many a ſwéet diſcourſe they had,</l>
+                  <l>as they alone did paſſe:</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his Young-man he was <unclear>apt</unclear> to woe,</l>
+                  <l>and well himſelfe could <unclear>carry,</unclear>
+                  </l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Mayd was kinde of <gap reason="illegible" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap>ing minde,</l>
+                  <l>but yet ſhe would not marry.</l>
+               </lg>
+               <lg>
+                  <l>This Young mans heart was ſet on fire,</l>
+                  <l>and ſtill he did inuent,</l>
+                  <l>How he might compaſſe his deſire,</l>
+                  <l>and fruſtrate her intent:</l>
+                  <l>For ſtill this Mayde ſaid as before,</l>
+                  <l>from all thy hopes I'le barre thée:</l>
+                  <l>Therefore be gone, let me alone,</l>
+                  <l>in ſooth I will not marry.</l>
+               </lg>
+               <lg>
+                  <l>This anſwer much diſmayed him,</l>
+                  <l>and troubled ſo his minde,</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat he thereat look'd pale and grim,</l>
+                  <l>and no content could finde:</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his Mayden ſhe was nothing mou'd,</l>
+                  <l>nor from her words would vary,</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut conſtantly ſhee did reply,</l>
+                  <l>ile neuer yeeld to marry.</l>
+               </lg>
+               <lg>
+                  <l>My Loue quoth he is ſo intire,</l>
+                  <l>and <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>me to thée my Deare,</l>
+                  <l>
+                     <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ho<gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> loue againe I much deſire,</l>
+                  <l>with many a wéeping teare:</l>
+                  <l>Therefore ſwéet heart be not vnkinde,</l>
+                  <l>nor ſay that thou will tarry,</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut let me proue thy conſtant Loue,</l>
+                  <l>and then conſent to marry.</l>
+               </lg>
+               <lg>
+                  <l>Didſt thou but know the inward griefe,</l>
+                  <l>I ſuffer for thy Loue,</l>
+                  <l>Thy flinty heart would yéeld reliefe,</l>
+                  <l>or more abdurate prone:</l>
+                  <l>My legs are growne ſo weake, that they</l>
+                  <l>my body ſcarce can carry,</l>
+                  <l>Then yéeld reliefe to eaſe my griefe,</l>
+                  <l>and giue conſent to marry.</l>
+               </lg>
+               <lg>
+                  <l>No, no, quoth ſhe thy flattring tongue,</l>
+                  <l>ſhall ne're obtaine his ſute,</l>
+                  <l>Thy tempting words haue done me wrong,</l>
+                  <l>therefore I pray be mute:</l>
+                  <l>For I am fully purpoſed,</l>
+                  <l>hence forth to be more wary,</l>
+                  <l>Therefore away make no delay,</l>
+                  <l>for in ſooth I will not marry.</l>
+               </lg>
+               <lg>
+                  <l>He asked her ſhe reaſon why,</l>
+                  <l>ſhee ſhould reiect him ſo:</l>
+                  <l>She would not ſuch ſhe did reply,</l>
+                  <l>for friend nor yet for foe:</l>
+                  <l>Quoth ſhée my yeares are yet but gréene,</l>
+                  <l>I am young enough to tarry.</l>
+                  <l>This twelue-monthes day, therefore away</l>
+                  <l>'tis time enough to marry.</l>
+               </lg>
+               <lg>
+                  <l>Quoth he it makes me halfe diſpaire,</l>
+                  <l>and troubleth much my minde,</l>
+                  <l>That one ſo comely and ſo faire,</l>
+                  <l>would e're proue ſo vnkinde:</l>
+                  <l>Therefore ſwéet heart tell me the cauſe,</l>
+                  <l>that thou ſo much doſt vary,</l>
+                  <l>From all the mindes of Women kinde.</l>
+                  <l>as to refuſe to marry.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:9270:1"/>
+               <!-- PDF PAGE 5 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>Didſt thou but know the ſwéet delights,</l>
+                  <l>that Marriage doth affoord:</l>
+                  <l>And how faire Ladyes, Lords and Knights</l>
+                  <l>in marriage bed accord:</l>
+                  <l>Thou wouldſt not fondly make reply,</l>
+                  <l>th'art young enough to tarry,</l>
+                  <l>But be content and give conſent,</l>
+                  <l>without delay to marry.</l>
+               </lg>
+               <lg>
+                  <l>He that ſayes Loue is vanity,</l>
+                  <l>ſhall ne're perſwade me to it,</l>
+                  <l>Nor yet deny a curteſie,</l>
+                  <l>if any one will doe it:</l>
+                  <l>For I have made a Vow quoth ſhée,</l>
+                  <l>and ſworne by great King <hi>Harry,</hi>
+                  </l>
+                  <l>That till I have, the thing I crave,</l>
+                  <l>I will not yéeld to marry.</l>
+               </lg>
+               <lg>
+                  <l>It I had knowne the cauſe quoth hée,</l>
+                  <l>why thou didſt make denyall,</l>
+                  <l>I quickly would have preferred thée,</l>
+                  <l>a ſwéet contenting tryall:</l>
+                  <l>Which would have made thée ſoone conſent</l>
+                  <l>though thou wert ne're ſo wary,</l>
+                  <l>And never more, ſay as before,</l>
+                  <l>Ile never yéeld to marry.</l>
+               </lg>
+               <lg>
+                  <l>Then vſe your wit the Mayde reply'd,</l>
+                  <l>for now you know the cauſe,</l>
+                  <l>A Maydens no, proves often I,</l>
+                  <l>to yéeld to <hi>Hymens</hi> lawes:</l>
+                  <l>If you prove kinde, the Mayden ſaid,</l>
+                  <l>conſent and doe not tarry,</l>
+                  <l>And then I ſoone, will change this tune,</l>
+                  <l>and quickly yéeld to marry.</l>
+               </lg>
+               <lg>
+                  <l>With that the Youngman bad her, both</l>
+                  <l>kéepe ſecret, and prove kinde,</l>
+                  <l>And he would verifie her Oath,</l>
+                  <l>and ſatisfie her minde:</l>
+                  <l>Quoth ſhée I ſhall be ſatisfied,</l>
+                  <l>if that thou doſt not vary,</l>
+                  <l>But yet in troth, I am very loath,</l>
+                  <l>to give my grant to marry.</l>
+               </lg>
+               <lg>
+                  <l>With that they both concluded were,</l>
+                  <l>but wote you how ſhe ſped,</l>
+                  <l>By conſequence it did appeare,</l>
+                  <l>that it her liking bred:</l>
+                  <l>For when her Oath was verified,</l>
+                  <l>that ſhe ſwore by King <hi>Harry,</hi>
+                  </l>
+                  <l>She never ſtayde but quickly ſaid,</l>
+                  <l>ſwéet heart now let vs marry.</l>
+               </lg>
+               <lg>
+                  <l>This Youngmans love, was quickly colde</l>
+                  <l>that héere betwixt them paſt,</l>
+                  <l>Quoth hée I will not be too bolde,</l>
+                  <l>leaſt I repent at laſt:</l>
+                  <l>For he that weds too haſtily,</l>
+                  <l>had néed for to be wary,</l>
+                  <l>Leaſt he repent he gave conſent,</l>
+                  <l>without aduice to marry.</l>
+               </lg>
+               <lg>
+                  <l>Faire Maydens all take good aduice,</l>
+                  <l>before you give conſent,</l>
+                  <l>Vnto your Loves in any wiſe,</l>
+                  <l>theſe follyes to prevent:</l>
+                  <l>For ſhée that to performe her Vow,</l>
+                  <l>ſo long a time did tarry,</l>
+                  <l>Was brought to ſhame and much defame,</l>
+                  <l>before that ſhe did marry.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for <hi>H.G.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
